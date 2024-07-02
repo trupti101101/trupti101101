@@ -1,21 +1,28 @@
 <h1 align="center">Hi, I'm Trupti Pathade</h1>
 <h3 align="center">Aspiring Software Developer | Trying to Build Tomorrow’s Solutions Today</h3>
 
+[![An image of @trupti101101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/trupti101101)](https://holopin.io/@trupti101101)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trupti101101&label=Profile%20views&color=0e75b6&style=flat" alt="trupti101101" /> </p>
 
-- 🔭 I’m currently working on **Lify technology**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trupti101101" alt="trupti101101" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@truptip130804" target="blank"><img src="https://img.shields.io/twitter/follow/truptip130804?logo=twitter&style=for-the-badge" alt="@truptip130804" /></a> </p>
+
+- 🔭 I’m currently working on **Tool Tip**
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Web Development, Programming Languages**
 
-- 📫 How to reach me **truptipathade354@gmail.com**
+- 📫 How to reach me **truptiwork13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/trupti-pathade-60a36723a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trupti pathade" height="30" width="40" /></a>
-<a href="https://instagram.com/trupti13_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trupti13_p" height="30" width="40" /></a>
 <a href="https://twitter.com/@truptip130804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@truptip130804" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/trupti pathade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trupti pathade" height="30" width="40" /></a>
+<a href="https://instagram.com/trupti13_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trupti13_p" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pathade_trupti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pathade_trupti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
